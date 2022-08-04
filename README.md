@@ -8,3 +8,13 @@ A Function that lets you change a webpage its background color
 # Need Help?
 ![Discord](https://lanyard-profile-readme.vercel.app/api/766719829179891743)
 
+# Demonstrations
+Light Mode
+
+![Light](light.png)
+
+Dark Mode
+
+![Dark](dark.png)
+
+[Check on Replit](https://dark-mode.jtonie.repl.co/)
